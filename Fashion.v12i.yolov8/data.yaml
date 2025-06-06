@@ -1,0 +1,15 @@
+path: C:\Users\Upal Mazumder\OneDrive\Desktop\flickd\Fashion.v12i.yolov8
+train: C:\Users\Upal Mazumder\OneDrive\Desktop\flickd\Fashion.v12i.yolov8\train\images
+val: C:\Users\Upal Mazumder\OneDrive\Desktop\flickd\Fashion.v12i.yolov8\valid\images
+test: C:\Users\Upal Mazumder\OneDrive\Desktop\flickd\Fashion.v12i.yolov8\test\images
+
+
+nc: 9
+names: ['bottom', 'dress', 'ear ring', 'glasses', 'handbag', 'jacket', 'ring', 'shoes', 'top']
+
+roboflow:
+  workspace: fashionfickd
+  project: fashion-2ksuu
+  version: 12
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fashionfickd/fashion-2ksuu/dataset/12

@@ -1,0 +1,618 @@
+[
+  {
+    "frame": 0,
+    "class": "glasses",
+    "bbox": [
+      608,
+      273,
+      123,
+      58
+    ],
+    "confidence": 0.917
+  },
+  {
+    "frame": 0,
+    "class": "dress",
+    "bbox": [
+      220,
+      365,
+      332,
+      1234
+    ],
+    "confidence": 0.879
+  },
+  {
+    "frame": 0,
+    "class": "dress",
+    "bbox": [
+      553,
+      408,
+      335,
+      996
+    ],
+    "confidence": 0.812
+  },
+  {
+    "frame": 0,
+    "class": "shoes",
+    "bbox": [
+      315,
+      1606,
+      103,
+      168
+    ],
+    "confidence": 0.603
+  },
+  {
+    "frame": 0,
+    "class": "shoes",
+    "bbox": [
+      633,
+      1628,
+      272,
+      125
+    ],
+    "confidence": 0.517
+  },
+  {
+    "frame": 0,
+    "class": "shoes",
+    "bbox": [
+      440,
+      1599,
+      101,
+      176
+    ],
+    "confidence": 0.451
+  },
+  {
+    "frame": 30,
+    "class": "top",
+    "bbox": [
+      240,
+      376,
+      279,
+      396
+    ],
+    "confidence": 0.529
+  },
+  {
+    "frame": 30,
+    "class": "shoes",
+    "bbox": [
+      627,
+      1620,
+      125,
+      129
+    ],
+    "confidence": 0.288
+  },
+  {
+    "frame": 30,
+    "class": "shoes",
+    "bbox": [
+      308,
+      1612,
+      249,
+      163
+    ],
+    "confidence": 0.275
+  },
+  {
+    "frame": 30,
+    "class": "glasses",
+    "bbox": [
+      609,
+      260,
+      109,
+      51
+    ],
+    "confidence": 0.255
+  },
+  {
+    "frame": 60,
+    "class": "glasses",
+    "bbox": [
+      563,
+      276,
+      135,
+      60
+    ],
+    "confidence": 0.851
+  },
+  {
+    "frame": 60,
+    "class": "handbag",
+    "bbox": [
+      806,
+      777,
+      110,
+      336
+    ],
+    "confidence": 0.609
+  },
+  {
+    "frame": 60,
+    "class": "shoes",
+    "bbox": [
+      314,
+      1602,
+      83,
+      171
+    ],
+    "confidence": 0.507
+  },
+  {
+    "frame": 60,
+    "class": "shoes",
+    "bbox": [
+      615,
+      1618,
+      119,
+      131
+    ],
+    "confidence": 0.504
+  },
+  {
+    "frame": 60,
+    "class": "shoes",
+    "bbox": [
+      712,
+      1615,
+      182,
+      127
+    ],
+    "confidence": 0.426
+  },
+  {
+    "frame": 60,
+    "class": "shoes",
+    "bbox": [
+      710,
+      1603,
+      134,
+      137
+    ],
+    "confidence": 0.266
+  },
+  {
+    "frame": 90,
+    "class": "top",
+    "bbox": [
+      127,
+      518,
+      747,
+      760
+    ],
+    "confidence": 0.967
+  },
+  {
+    "frame": 90,
+    "class": "bottom",
+    "bbox": [
+      265,
+      1248,
+      547,
+      476
+    ],
+    "confidence": 0.917
+  },
+  {
+    "frame": 120,
+    "class": "top",
+    "bbox": [
+      36,
+      1155,
+      1029,
+      765
+    ],
+    "confidence": 0.795
+  },
+  {
+    "frame": 150,
+    "class": "top",
+    "bbox": [
+      133,
+      567,
+      731,
+      614
+    ],
+    "confidence": 0.96
+  },
+  {
+    "frame": 150,
+    "class": "bottom",
+    "bbox": [
+      245,
+      1131,
+      831,
+      789
+    ],
+    "confidence": 0.38
+  },
+  {
+    "frame": 180,
+    "class": "top",
+    "bbox": [
+      20,
+      11,
+      1036,
+      1835
+    ],
+    "confidence": 0.373
+  },
+  {
+    "frame": 210,
+    "class": "handbag",
+    "bbox": [
+      215,
+      516,
+      208,
+      629
+    ],
+    "confidence": 0.921
+  },
+  {
+    "frame": 210,
+    "class": "top",
+    "bbox": [
+      44,
+      542,
+      714,
+      877
+    ],
+    "confidence": 0.89
+  },
+  {
+    "frame": 210,
+    "class": "glasses",
+    "bbox": [
+      396,
+      269,
+      249,
+      80
+    ],
+    "confidence": 0.878
+  },
+  {
+    "frame": 210,
+    "class": "bottom",
+    "bbox": [
+      132,
+      1327,
+      614,
+      516
+    ],
+    "confidence": 0.762
+  },
+  {
+    "frame": 240,
+    "class": "top",
+    "bbox": [
+      89,
+      464,
+      931,
+      636
+    ],
+    "confidence": 0.949
+  },
+  {
+    "frame": 240,
+    "class": "bottom",
+    "bbox": [
+      309,
+      1063,
+      626,
+      693
+    ],
+    "confidence": 0.855
+  },
+  {
+    "frame": 270,
+    "class": "shoes",
+    "bbox": [
+      246,
+      1790,
+      129,
+      130
+    ],
+    "confidence": 0.469
+  },
+  {
+    "frame": 270,
+    "class": "dress",
+    "bbox": [
+      128,
+      393,
+      525,
+      1327
+    ],
+    "confidence": 0.341
+  },
+  {
+    "frame": 300,
+    "class": "top",
+    "bbox": [
+      311,
+      601,
+      636,
+      725
+    ],
+    "confidence": 0.856
+  },
+  {
+    "frame": 300,
+    "class": "bottom",
+    "bbox": [
+      325,
+      1214,
+      740,
+      706
+    ],
+    "confidence": 0.754
+  },
+  {
+    "frame": 330,
+    "class": "top",
+    "bbox": [
+      396,
+      481,
+      341,
+      324
+    ],
+    "confidence": 0.965
+  },
+  {
+    "frame": 330,
+    "class": "bottom",
+    "bbox": [
+      369,
+      790,
+      299,
+      225
+    ],
+    "confidence": 0.813
+  },
+  {
+    "frame": 360,
+    "class": "dress",
+    "bbox": [
+      275,
+      678,
+      263,
+      721
+    ],
+    "confidence": 0.805
+  },
+  {
+    "frame": 360,
+    "class": "shoes",
+    "bbox": [
+      60,
+      1522,
+      149,
+      94
+    ],
+    "confidence": 0.563
+  },
+  {
+    "frame": 360,
+    "class": "dress",
+    "bbox": [
+      547,
+      690,
+      267,
+      718
+    ],
+    "confidence": 0.535
+  },
+  {
+    "frame": 360,
+    "class": "dress",
+    "bbox": [
+      64,
+      647,
+      194,
+      796
+    ],
+    "confidence": 0.528
+  },
+  {
+    "frame": 360,
+    "class": "dress",
+    "bbox": [
+      545,
+      665,
+      303,
+      920
+    ],
+    "confidence": 0.348
+  },
+  {
+    "frame": 360,
+    "class": "shoes",
+    "bbox": [
+      540,
+      1565,
+      87,
+      90
+    ],
+    "confidence": 0.279
+  },
+  {
+    "frame": 390,
+    "class": "top",
+    "bbox": [
+      44,
+      515,
+      1036,
+      1405
+    ],
+    "confidence": 0.607
+  },
+  {
+    "frame": 420,
+    "class": "bottom",
+    "bbox": [
+      407,
+      889,
+      384,
+      339
+    ],
+    "confidence": 0.953
+  },
+  {
+    "frame": 420,
+    "class": "top",
+    "bbox": [
+      432,
+      516,
+      389,
+      408
+    ],
+    "confidence": 0.833
+  },
+  {
+    "frame": 420,
+    "class": "glasses",
+    "bbox": [
+      552,
+      346,
+      145,
+      59
+    ],
+    "confidence": 0.578
+  },
+  {
+    "frame": 450,
+    "class": "top",
+    "bbox": [
+      163,
+      0,
+      903,
+      535
+    ],
+    "confidence": 0.524
+  },
+  {
+    "frame": 450,
+    "class": "bottom",
+    "bbox": [
+      133,
+      512,
+      736,
+      1403
+    ],
+    "confidence": 0.458
+  },
+  {
+    "frame": 480,
+    "class": "top",
+    "bbox": [
+      24,
+      498,
+      812,
+      814
+    ],
+    "confidence": 0.637
+  },
+  {
+    "frame": 480,
+    "class": "handbag",
+    "bbox": [
+      259,
+      698,
+      514,
+      620
+    ],
+    "confidence": 0.305
+  },
+  {
+    "frame": 510,
+    "class": "glasses",
+    "bbox": [
+      285,
+      391,
+      297,
+      137
+    ],
+    "confidence": 0.878
+  },
+  {
+    "frame": 540,
+    "class": "ear ring",
+    "bbox": [
+      911,
+      182,
+      47,
+      68
+    ],
+    "confidence": 0.26
+  },
+  {
+    "frame": 570,
+    "class": "top",
+    "bbox": [
+      365,
+      415,
+      334,
+      336
+    ],
+    "confidence": 0.834
+  },
+  {
+    "frame": 570,
+    "class": "bottom",
+    "bbox": [
+      367,
+      778,
+      352,
+      382
+    ],
+    "confidence": 0.737
+  },
+  {
+    "frame": 570,
+    "class": "shoes",
+    "bbox": [
+      353,
+      1285,
+      340,
+      554
+    ],
+    "confidence": 0.62
+  },
+  {
+    "frame": 600,
+    "class": "top",
+    "bbox": [
+      289,
+      377,
+      369,
+      390
+    ],
+    "confidence": 0.951
+  },
+  {
+    "frame": 600,
+    "class": "bottom",
+    "bbox": [
+      276,
+      800,
+      359,
+      374
+    ],
+    "confidence": 0.839
+  },
+  {
+    "frame": 600,
+    "class": "shoes",
+    "bbox": [
+      353,
+      1335,
+      255,
+      549
+    ],
+    "confidence": 0.323
+  }
+]
